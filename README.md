@@ -1,5 +1,3 @@
-
-
 <div align="center">
    
   <a href="https://github.com/Olauz?tab=repositories&sort=stargazers"> 
@@ -28,7 +26,6 @@
 - 👨‍💻 Entusiasta de Front-end
 - 📚 Estudando Analise e desenvolvimento de Sistemas.
 
-
  ### 🤝 Como falar comigo:
 <div align="center">
 
@@ -52,69 +49,27 @@
 ---
 
 
-
-
-
-<!-- github-readme-stats top languages -->
-<!--
-<a href="https://github.com/Olauz/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitababko&theme=jolly&langs_count=6&layout=compact" alt="Top Langs" style="max-width: 100%;">
-</a> -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
 ## 🛠️ Ferramentas Que estou estudando: 📚
-
-
 ### 💻 Linguagens de Programação e Marcação
-
 <p>
-    
-
-</p>	
-
-### 🧰 Frameworks e Livrarias
-
-<p>
-
-</p>
-
-
-
-### 💻 Softwares e Ferramentas
-
-![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
-
-
-
-### 🗄️ Bancos de dados e hospedagem em nuvem
-
-![sql](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-
-
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-
-![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
+    <img "C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![.net](https://img.shields.io/badge/framework-512BD4?style=flat&logo=.net&logoColor=white)
-
-![nodejs](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
-
-![tailwindcss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
-
-
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+### 💻 Softwares e Ferramentas
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
+
+### 🗄️ Bancos de dados e hospedagem em nuvem
+![sql](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 ## 🚀 O que eu estou fazendo?
 
-* Implantando do GLPI
-* Desenvolvendo processos empresariais
-
+* Fazendo algumas certificações
 
 ## 🌟  O que eu quero fazer?
 
@@ -123,4 +78,3 @@
 ## 🔥 Sequência de estatísticas
 
 [![Olauz stats](https://github-readme-stats-edmaxi.vercel.app/api?username=Olauz&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&locale=pt-br&custom_title=Minhas%20Estatísticas%20no%20Github)](https://github.com/Olauz/github-readme-stats)
-
