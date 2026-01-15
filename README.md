@@ -22,7 +22,7 @@
 ## Sou Analista em TI, Estudante e entusiasta em Desenvolvimento de Sistemas!
 
 - 📍 Sou do Brasil (Curitiba)
-- 💻 Mais de 17 anos de experiência em Técnologia da Informação e telecomunicações
+- 💻 Mais de 17 anos de experiência, com forte atuação nos setores de telecomunicações e tecnologia da Informação. 
 - 👨‍💻 Entusiasta de Front-end
 - 📚 Estudando Analise e desenvolvimento de Sistemas.
 
