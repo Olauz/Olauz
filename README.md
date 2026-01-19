@@ -29,7 +29,7 @@
  ### 🤝 Como falar comigo:
 <div align="center">
 
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5553984388332&text=Oi%20Olauz%2C%20contato%20pelo%20Github%2C%20tudo%20bem%3F)
+
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GvrdJmxANV)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/Olauz/Olauz/discussions/new)
   
